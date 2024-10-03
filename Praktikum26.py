@@ -1,4 +1,3 @@
-# Raihan Adi Wijiyanto
 
 # Praktikum 26
 # Tipe data Dictionary
