@@ -1,5 +1,5 @@
 # Raihan Adi Wijiyanto
-# 2411501550
+
 # Praktikum 26
 # Tipe data Dictionary
 
